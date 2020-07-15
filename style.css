@@ -39,3 +39,9 @@ li{
 .highlightBar {
   background-color: #293a80;
 }
+
+@media only screen and (min-width: 1000px) {
+  .canvas {
+    max-width: 75%;
+  }
+}
