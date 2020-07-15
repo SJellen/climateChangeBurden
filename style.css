@@ -42,6 +42,6 @@ li{
 
 @media only screen and (min-width: 1000px) {
   .canvas {
-    max-width: 75%;
+    max-width: 750px;
   }
 }
