@@ -1,4 +1,6 @@
 <h1 align="center">Welcome to Climate Change Burden 👋</h1>
+
+![screenshot](https://github.com/SJellen/climateChangeBurden/blob/master/ScreenShot.png)
 <p>
   <a href="https://twitter.com/ScottJellen" target="_blank">
     <img alt="Twitter: ScottJellen" src="https://img.shields.io/twitter/follow/ScottJellen.svg?style=social" />
